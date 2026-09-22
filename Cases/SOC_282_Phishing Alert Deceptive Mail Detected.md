@@ -19,9 +19,7 @@ User felix@letsdefend[.]io interacted with a malicious link in a phishing email,
 | Time                  | Event                           |
 | --------------------- | ------------------------------- |
 | 13 May 2024, 09:22:00 | Phishing email delivered        |
-| 13 Mar 2025, 12:59:00 | User clicked the malicious link |
-
-> **Note:** the delivery and click dates are roughly 10 months apart. Confirm against the alert whether this is correct or a typo in one of the dates before finalizing.
+| 13 Mar 2024, 12:59:00 | User clicked the malicious link |
 
 ## Artifacts (Indicators of Compromise)
 
