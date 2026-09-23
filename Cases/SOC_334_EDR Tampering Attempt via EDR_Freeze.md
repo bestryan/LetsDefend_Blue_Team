@@ -21,7 +21,7 @@ Based on the scripting history reviewed, no other malicious activity was found.
 | Time     | Event                                                                                     |
 | -------- | ----------------------------------------------------------------------------------------- |
 | 12:59:43 | `212[.]8[.]243[.]56` initiated RDP brute-force attempts against WS-Prod-02                |
-| —        | Attacker obtained valid credentials for LetsDefendsvc on the 5th attempt (per log search) |
+| 20:00:08 | Attacker obtained valid credentials for LetsDefendsvc on the 5th attempt (per log search) |
 
 ## Artifacts (Indicators of Compromise)
 
