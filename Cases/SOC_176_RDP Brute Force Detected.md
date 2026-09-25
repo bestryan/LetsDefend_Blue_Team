@@ -1,11 +1,11 @@
 # RDP Brute Force Detected
 
-|                   |                                       |
-| ----------------- | ------------------------------------- |
-| **Platform**      | LetsDefend                            |
-| **Severity**      | _(not provided — confirm from alert)_ |
-| **Verdict**       | True Positive                         |
-| **Affected host** | Matthew (172.16.17[.]148)             |
+|                   |                           |
+| ----------------- | ------------------------- |
+| **Platform**      | LetsDefend                |
+| **Severity**      | Medium                    |
+| **Verdict**       | True Positive             |
+| **Affected host** | Matthew (172.16.17[.]148) |
 
 ---
 
