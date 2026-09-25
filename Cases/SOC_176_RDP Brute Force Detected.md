@@ -15,15 +15,13 @@ On 7th Mar 2024, an alert was triggered by "RDP Brute Force Detected" against ho
 
 ## Timeline (When it happened)
 
-| Time                  | Event                                                                    |
-| --------------------- | ------------------------------------------------------------------------ |
-| 7 Mar/Sep 2024, 11:44 | Attacker began RDP login attempts against host Matthew (172.16.17[.]148) |
-| 7 Mar 2024, 11:45:51  | `whoami` executed on host                                                |
-| 7 Mar 2024, 11:45:58  | `net user letsdefend` executed                                           |
-| 7 Mar 2024, 11:46:34  | `net localgroup administrators` executed                                 |
-| 7 Mar 2024, 11:46:53  | `netstat -ano` executed                                                  |
-
-> **Note:** the summary states 7th **Mar** 2024, but the timeline states 7th **Sep** 2024. Confirm the correct month against the alert before finalizing.
+| Time                 | Event                                                                    |
+| -------------------- | ------------------------------------------------------------------------ |
+| 7 Mar 2024, 11:44:00 | Attacker began RDP login attempts against host Matthew (172.16.17[.]148) |
+| 7 Mar 2024, 11:45:51 | `whoami` executed on host                                                |
+| 7 Mar 2024, 11:45:58 | `net user letsdefend` executed                                           |
+| 7 Mar 2024, 11:46:34 | `net localgroup administrators` executed                                 |
+| 7 Mar 2024, 11:46:53 | `netstat -ano` executed                                                  |
 
 ## Artifacts (Indicators of Compromise)
 
