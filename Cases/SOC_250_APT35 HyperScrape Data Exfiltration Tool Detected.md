@@ -61,7 +61,7 @@ Based on the data gathered during the investigation:
 
 - Isolated host Arthur (172.16.17[.]72) using EDR containment to prevent further data leakage.
 
-In a real-world scenario, this would be followed by:
+**Note:** In a real-world scenario, this would be followed by:
 
 - Deep searching the logs and identifying unusual activity on the host.
 - Checking the mailbox for any sensitive information involved in the leak.
