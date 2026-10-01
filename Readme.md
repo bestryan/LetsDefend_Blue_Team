@@ -6,7 +6,7 @@ My incident response practice on the [LetsDefend] Blue Team platform. Each case 
 
 ## Report format
 
-Each write-up covers: Summary, Timeline, Artifacts (IOCs), Root Cause, Impact, Action Taken, Recommendations.
+Each write-up covers: Summary, Timeline, Artifacts (IOCs), Root Cause, Impact, Action Taken, Recommendations and others
 
 ## Notes
 
