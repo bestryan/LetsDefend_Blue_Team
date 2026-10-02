@@ -2,7 +2,7 @@
 
 My incident response practice on the [LetsDefend] Blue Team platform. Each case is a SOC alert I investigated and closed, written up in the format of an incident ticket.
 
-**Goal:** learn and develop incident response skills through regular hands-on practice.
+**Goal:** learn and develop incident response skills through regular hands-on practice, with my own summary
 
 ## Report format
 
