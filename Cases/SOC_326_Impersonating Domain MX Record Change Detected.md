@@ -53,7 +53,7 @@ Based on the data gathered during the investigation:
 - Retracted the phishing email from the mailbox.
 - Searched the email logs and identified no other affected users.
 
-In a real-world scenario, this would be followed by:
+**Note:** In a real-world scenario, this would be followed by:
 
 - Searching the logs and identifying any unusual activity on the host.
 - Investigating for lateral movement.
